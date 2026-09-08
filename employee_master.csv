@@ -1,0 +1,601 @@
+﻿EmployeeID,Department,JobLevel,Location,Age,TenureYears,PerformanceRating,PotentialCategory,MobilityInterest
+E0001,Marketing,L3,"Toronto, ON",25,2.4,3,High,Low
+E0002,Legal & Compliance,L6,"Calgary, AB",47,0.3,3,High,Low
+E0003,Sales,L1,"Ottawa, ON",30,0.3,3,Solid,High
+E0004,Sales,L4,"Toronto, ON",51,7.5,5,Solid,Low
+E0005,Finance,L4,"Vancouver, BC",48,6.1,3,Developing,High
+E0006,Engineering,L1,"Montreal, QC",46,5.8,3,High,Low
+E0007,Human Resources,L1,"Calgary, AB",49,6.8,3,Solid,Medium
+E0008,Sales,L2,"Toronto, ON",23,7.4,4,High,Medium
+E0009,Sales,L3,Remote - Canada,56,1.0,2,Solid,Medium
+E0010,Engineering,L2,"Montreal, QC",24,7.7,3,Solid,Medium
+E0011,Operations,L6,"Montreal, QC",23,1.8,4,Developing,High
+E0012,Human Resources,L4,"Toronto, ON",40,6.3,4,Solid,Medium
+E0013,Engineering,L3,"Toronto, ON",32,5.1,4,Solid,Medium
+E0014,Finance,L2,"Toronto, ON",42,4.4,4,Solid,Low
+E0015,Finance,L3,"Calgary, AB",42,7.4,3,Solid,Medium
+E0016,Engineering,L1,"Toronto, ON",46,3.1,3,Solid,High
+E0017,Human Resources,L3,"Toronto, ON",44,7.2,4,Solid,Medium
+E0018,Operations,L1,Remote - Canada,39,1.6,4,Solid,Medium
+E0019,Sales,L3,"Toronto, ON",46,6.7,2,Solid,Medium
+E0020,Human Resources,L1,"Montreal, QC",53,0.6,3,Solid,Medium
+E0021,Operations,L4,"Vancouver, BC",57,3.6,4,Solid,High
+E0022,Sales,L3,"Ottawa, ON",47,2.8,4,High,High
+E0023,Human Resources,L1,"Toronto, ON",39,2.4,4,Solid,Medium
+E0024,Operations,L3,"Toronto, ON",41,3.7,3,High,Low
+E0025,Engineering,L2,"Toronto, ON",26,6.6,3,Solid,Low
+E0026,Finance,L3,"Toronto, ON",36,7.8,4,Developing,Low
+E0027,Customer Success,L2,"Calgary, AB",40,4.0,3,Solid,High
+E0028,Operations,L2,"Vancouver, BC",58,7.6,5,Developing,Low
+E0029,Engineering,L3,Remote - Canada,58,4.9,4,Solid,Medium
+E0030,Sales,L3,"Montreal, QC",35,1.9,4,High,Medium
+E0031,Finance,L2,"Toronto, ON",52,4.1,4,Developing,High
+E0032,Sales,L3,"Calgary, AB",37,1.2,3,Solid,Medium
+E0033,Legal & Compliance,L5,"Montreal, QC",39,3.1,3,Solid,Low
+E0034,Customer Success,L2,"Vancouver, BC",44,10.3,3,Developing,Medium
+E0035,Human Resources,L3,"Montreal, QC",33,3.6,2,Solid,Medium
+E0036,Human Resources,L2,"Toronto, ON",24,0.8,4,Solid,Low
+E0037,Sales,L2,"Vancouver, BC",36,0.3,5,Solid,Medium
+E0038,Engineering,L3,"Ottawa, ON",29,4.3,4,Developing,Low
+E0039,Finance,L3,"Vancouver, BC",56,4.6,2,Solid,Medium
+E0040,Engineering,L4,"Toronto, ON",55,5.9,3,Solid,High
+E0041,Engineering,L2,"Toronto, ON",27,6.3,4,Solid,High
+E0042,Operations,L1,Remote - Canada,45,1.2,3,High,Medium
+E0043,Engineering,L5,"Vancouver, BC",27,6.6,3,Solid,Medium
+E0044,Sales,L1,"Toronto, ON",51,5.8,2,Solid,High
+E0045,Engineering,L1,"Toronto, ON",52,10.7,2,Developing,Medium
+E0046,Engineering,L4,"Vancouver, BC",23,2.9,3,Solid,High
+E0047,Human Resources,L4,"Toronto, ON",40,1.9,4,Solid,Medium
+E0048,Operations,L2,"Vancouver, BC",49,0.3,3,Developing,Medium
+E0049,Sales,L1,Remote - Canada,43,6.5,4,Developing,High
+E0050,Human Resources,L3,"Vancouver, BC",34,2.7,5,High,Medium
+E0051,Human Resources,L5,"Calgary, AB",58,3.2,4,High,Medium
+E0052,Customer Success,L2,"Montreal, QC",54,1.9,3,Solid,Medium
+E0053,Sales,L2,"Montreal, QC",44,5.4,4,High,Medium
+E0054,Sales,L4,"Vancouver, BC",46,1.9,3,High,Medium
+E0055,Engineering,L3,"Toronto, ON",28,4.9,4,Developing,Medium
+E0056,Sales,L4,"Calgary, AB",31,0.3,5,Solid,High
+E0057,Human Resources,L4,"Vancouver, BC",39,1.2,4,Developing,Medium
+E0058,Legal & Compliance,L2,"Montreal, QC",32,5.1,4,Solid,High
+E0059,Sales,L1,"Montreal, QC",34,5.9,4,Solid,Medium
+E0060,Engineering,L4,"Montreal, QC",42,2.9,3,Developing,Medium
+E0061,Human Resources,L4,"Montreal, QC",26,1.7,2,Solid,Low
+E0062,Operations,L1,"Calgary, AB",28,2.7,4,Developing,Medium
+E0063,Engineering,L2,"Toronto, ON",51,2.5,2,Solid,Medium
+E0064,Operations,L2,"Vancouver, BC",32,5.9,2,Solid,High
+E0065,Engineering,L3,"Ottawa, ON",58,2.6,3,High,Low
+E0066,Human Resources,L3,"Toronto, ON",38,3.2,3,Solid,High
+E0067,Engineering,L1,"Toronto, ON",35,5.1,3,High,Medium
+E0068,Customer Success,L3,"Montreal, QC",56,7.2,4,Developing,Medium
+E0069,Finance,L2,"Vancouver, BC",30,4.8,2,Solid,Medium
+E0070,Engineering,L3,"Vancouver, BC",41,1.0,2,High,Medium
+E0071,Human Resources,L2,"Ottawa, ON",39,2.3,3,High,Medium
+E0072,Sales,L3,"Vancouver, BC",25,2.3,3,Solid,Medium
+E0073,Legal & Compliance,L3,"Toronto, ON",42,2.9,3,Developing,Medium
+E0074,Human Resources,L4,"Calgary, AB",45,3.4,3,High,Low
+E0075,Engineering,L2,"Toronto, ON",44,1.7,5,Developing,Medium
+E0076,Engineering,L5,"Calgary, AB",53,1.3,4,High,Low
+E0077,Engineering,L3,Remote - Canada,42,4.2,3,Solid,Medium
+E0078,Operations,L2,"Montreal, QC",36,2.7,3,Solid,High
+E0079,Engineering,L2,"Ottawa, ON",52,7.3,2,Solid,Medium
+E0080,Customer Success,L4,"Vancouver, BC",34,4.2,3,Developing,Medium
+E0081,Customer Success,L2,"Toronto, ON",31,5.2,4,Solid,High
+E0082,Engineering,L3,"Toronto, ON",29,9.4,2,Solid,Medium
+E0083,Engineering,L2,"Montreal, QC",48,6.2,2,High,Low
+E0084,Customer Success,L2,"Toronto, ON",31,3.3,3,High,Medium
+E0085,Sales,L2,"Toronto, ON",57,5.1,3,High,Medium
+E0086,Finance,L5,"Montreal, QC",49,4.7,4,Solid,High
+E0087,Sales,L6,"Vancouver, BC",32,5.4,3,High,Low
+E0088,Operations,L4,"Calgary, AB",45,1.8,4,Solid,Medium
+E0089,Engineering,L1,"Montreal, QC",49,4.2,3,High,Medium
+E0090,Engineering,L3,"Vancouver, BC",45,2.9,3,Solid,Medium
+E0091,Legal & Compliance,L3,"Toronto, ON",40,7.4,3,High,Medium
+E0092,Engineering,L4,Remote - Canada,36,3.1,3,Developing,Low
+E0093,Operations,L2,"Calgary, AB",25,7.7,2,Developing,Medium
+E0094,Engineering,L2,"Toronto, ON",34,2.8,5,Solid,Medium
+E0095,Operations,L3,"Ottawa, ON",36,3.0,5,Solid,High
+E0096,Engineering,L3,"Vancouver, BC",56,5.3,3,High,Medium
+E0097,Operations,L4,"Vancouver, BC",56,1.7,3,Solid,Medium
+E0098,Sales,L1,"Toronto, ON",56,8.2,3,High,Medium
+E0099,Engineering,L3,"Montreal, QC",48,4.4,3,Solid,Low
+E0100,Customer Success,L3,"Vancouver, BC",37,6.5,4,Developing,Medium
+E0101,Operations,L3,"Montreal, QC",52,2.9,3,High,Medium
+E0102,Human Resources,L2,"Ottawa, ON",29,10.0,3,Developing,High
+E0103,Operations,L3,"Montreal, QC",36,3.9,5,Solid,High
+E0104,Engineering,L2,"Ottawa, ON",43,5.2,3,Solid,Medium
+E0105,Operations,L3,"Vancouver, BC",30,4.6,3,Solid,Medium
+E0106,Sales,L4,"Toronto, ON",38,4.0,3,High,High
+E0107,Sales,L3,"Vancouver, BC",39,0.4,3,High,Medium
+E0108,Legal & Compliance,L1,"Vancouver, BC",46,0.3,3,Developing,Medium
+E0109,Finance,L2,"Calgary, AB",36,0.5,5,Developing,Medium
+E0110,Customer Success,L2,"Vancouver, BC",23,5.1,3,Solid,High
+E0111,Finance,L5,"Toronto, ON",34,5.7,3,High,Low
+E0112,Finance,L1,"Calgary, AB",25,6.1,4,High,Low
+E0113,Engineering,L2,"Calgary, AB",49,0.3,4,Solid,High
+E0114,Operations,L2,"Toronto, ON",52,7.6,2,Solid,Medium
+E0115,Finance,L4,Remote - Canada,27,4.1,4,High,High
+E0116,Human Resources,L2,Remote - Canada,29,4.1,3,Solid,High
+E0117,Sales,L2,"Calgary, AB",29,1.9,3,Solid,Medium
+E0118,Sales,L3,"Montreal, QC",50,6.8,3,Solid,Low
+E0119,Operations,L3,"Toronto, ON",32,0.8,2,Solid,High
+E0120,Operations,L2,"Ottawa, ON",34,6.0,4,Solid,High
+E0121,Marketing,L1,"Toronto, ON",36,3.1,4,Solid,High
+E0122,Sales,L2,"Vancouver, BC",47,6.7,5,Solid,Medium
+E0123,Operations,L4,"Montreal, QC",40,1.1,3,Solid,High
+E0124,Sales,L4,"Vancouver, BC",29,8.4,3,Developing,Low
+E0125,Sales,L4,"Montreal, QC",29,1.5,3,Solid,Medium
+E0126,Legal & Compliance,L4,Remote - Canada,34,5.4,3,High,High
+E0127,Customer Success,L6,"Vancouver, BC",34,2.4,3,Solid,Medium
+E0128,Human Resources,L2,"Vancouver, BC",34,4.1,4,Solid,Medium
+E0129,Customer Success,L4,"Calgary, AB",55,4.9,3,High,Low
+E0130,Engineering,L3,"Montreal, QC",44,0.6,4,Developing,Low
+E0131,Engineering,L2,"Toronto, ON",53,4.8,4,Solid,Low
+E0132,Operations,L3,"Toronto, ON",27,6.3,5,Developing,Medium
+E0133,Engineering,L4,"Toronto, ON",34,0.3,3,Solid,Medium
+E0134,Customer Success,L3,"Toronto, ON",34,0.3,4,Developing,Medium
+E0135,Marketing,L6,"Calgary, AB",38,3.0,4,Solid,High
+E0136,Sales,L1,Remote - Canada,34,8.1,4,Developing,High
+E0137,Engineering,L5,"Montreal, QC",24,0.3,3,Developing,High
+E0138,Sales,L6,Remote - Canada,32,3.1,4,Solid,Medium
+E0139,Finance,L2,"Ottawa, ON",52,2.9,3,Developing,Low
+E0140,Customer Success,L3,Remote - Canada,56,2.1,3,Developing,Medium
+E0141,Operations,L1,"Toronto, ON",57,1.9,4,High,Medium
+E0142,Human Resources,L1,"Toronto, ON",35,2.4,4,High,Low
+E0143,Operations,L3,"Montreal, QC",36,5.1,2,Developing,Low
+E0144,Sales,L2,"Vancouver, BC",23,8.4,5,High,Medium
+E0145,Finance,L2,"Ottawa, ON",47,3.8,5,High,High
+E0146,Human Resources,L2,"Toronto, ON",26,3.1,2,High,Low
+E0147,Customer Success,L2,"Calgary, AB",55,2.8,2,Solid,Medium
+E0148,Operations,L5,"Montreal, QC",47,1.0,3,Developing,Medium
+E0149,Customer Success,L1,"Montreal, QC",50,2.1,4,High,Medium
+E0150,Engineering,L2,"Vancouver, BC",48,6.3,4,Solid,High
+E0151,Engineering,L6,Remote - Canada,50,6.3,3,Solid,Medium
+E0152,Operations,L2,"Vancouver, BC",27,0.3,3,Solid,Medium
+E0153,Operations,L2,"Montreal, QC",55,0.3,4,Solid,High
+E0154,Finance,L3,"Vancouver, BC",44,7.4,3,High,Medium
+E0155,Finance,L2,"Vancouver, BC",26,0.3,4,Developing,High
+E0156,Operations,L2,"Vancouver, BC",32,4.8,2,Solid,Low
+E0157,Engineering,L3,"Toronto, ON",54,4.2,4,Solid,Medium
+E0158,Operations,L5,"Ottawa, ON",42,2.9,3,Solid,Medium
+E0159,Engineering,L3,Remote - Canada,45,8.1,3,Solid,Medium
+E0160,Engineering,L3,"Montreal, QC",55,8.9,3,Solid,Medium
+E0161,Engineering,L5,"Toronto, ON",52,5.5,3,Solid,Medium
+E0162,Human Resources,L3,"Vancouver, BC",39,4.0,3,Solid,Low
+E0163,Engineering,L2,"Vancouver, BC",27,3.7,3,Solid,Medium
+E0164,Engineering,L4,"Vancouver, BC",45,3.1,5,Solid,Medium
+E0165,Human Resources,L2,"Vancouver, BC",36,3.9,3,Developing,High
+E0166,Finance,L3,"Montreal, QC",35,0.8,3,Solid,Medium
+E0167,Sales,L4,"Toronto, ON",42,3.3,4,High,Medium
+E0168,Sales,L3,"Montreal, QC",25,5.7,3,Solid,Medium
+E0169,Engineering,L3,"Vancouver, BC",54,10.5,3,Solid,High
+E0170,Engineering,L3,"Vancouver, BC",45,0.9,4,High,High
+E0171,Marketing,L2,"Toronto, ON",37,4.3,5,Developing,Low
+E0172,Engineering,L2,"Toronto, ON",25,3.0,4,High,Medium
+E0173,Sales,L1,"Calgary, AB",26,6.1,5,Developing,High
+E0174,Finance,L2,"Toronto, ON",48,0.3,4,High,Medium
+E0175,Legal & Compliance,L3,"Toronto, ON",56,0.3,2,Solid,Medium
+E0176,Engineering,L6,"Montreal, QC",37,3.8,4,Developing,Low
+E0177,Human Resources,L4,Remote - Canada,37,6.8,2,High,High
+E0178,Human Resources,L2,"Montreal, QC",57,1.6,5,High,High
+E0179,Human Resources,L1,"Toronto, ON",42,6.1,3,Solid,High
+E0180,Human Resources,L3,"Vancouver, BC",23,4.0,3,Developing,Medium
+E0181,Customer Success,L5,Remote - Canada,23,7.0,4,Solid,Low
+E0182,Operations,L3,"Toronto, ON",37,3.5,2,Solid,Medium
+E0183,Customer Success,L3,"Ottawa, ON",24,3.7,3,Developing,Medium
+E0184,Engineering,L3,"Calgary, AB",45,4.6,3,Solid,High
+E0185,Engineering,L4,"Vancouver, BC",35,2.2,4,High,High
+E0186,Customer Success,L3,"Montreal, QC",23,6.8,3,Solid,Low
+E0187,Human Resources,L2,"Vancouver, BC",40,8.1,2,High,High
+E0188,Customer Success,L1,"Ottawa, ON",40,5.8,3,Solid,Medium
+E0189,Operations,L4,"Toronto, ON",55,3.1,5,High,High
+E0190,Engineering,L3,"Toronto, ON",33,6.3,3,Developing,Medium
+E0191,Engineering,L1,"Toronto, ON",44,5.0,3,Developing,Medium
+E0192,Sales,L3,"Toronto, ON",40,6.3,3,High,Medium
+E0193,Marketing,L6,"Vancouver, BC",24,6.2,4,Solid,Low
+E0194,Sales,L4,"Vancouver, BC",57,4.7,4,Developing,High
+E0195,Human Resources,L2,"Montreal, QC",33,0.3,3,High,Medium
+E0196,Operations,L2,"Toronto, ON",54,7.1,2,Solid,Medium
+E0197,Customer Success,L2,"Montreal, QC",46,10.3,5,Developing,Medium
+E0198,Marketing,L1,"Montreal, QC",28,6.7,4,Solid,Low
+E0199,Human Resources,L1,"Toronto, ON",48,9.5,3,Solid,Medium
+E0200,Finance,L4,"Vancouver, BC",23,5.2,2,Solid,High
+E0201,Finance,L4,"Toronto, ON",31,0.3,4,Solid,Medium
+E0202,Engineering,L3,"Calgary, AB",43,6.4,3,Developing,Medium
+E0203,Engineering,L4,"Calgary, AB",41,2.4,4,High,High
+E0204,Customer Success,L2,Remote - Canada,58,2.3,3,Solid,Medium
+E0205,Engineering,L5,"Toronto, ON",38,12.4,4,Developing,Low
+E0206,Engineering,L2,Remote - Canada,57,4.5,3,Solid,Medium
+E0207,Engineering,L5,"Montreal, QC",30,5.8,4,High,Medium
+E0208,Customer Success,L3,"Montreal, QC",49,6.0,5,Developing,Medium
+E0209,Marketing,L3,"Toronto, ON",24,3.7,4,Developing,Medium
+E0210,Customer Success,L3,"Toronto, ON",41,7.3,4,High,Low
+E0211,Sales,L2,"Vancouver, BC",39,7.2,3,High,Medium
+E0212,Human Resources,L1,"Vancouver, BC",39,10.5,2,Solid,Medium
+E0213,Marketing,L4,Remote - Canada,34,5.9,2,Solid,Medium
+E0214,Finance,L1,"Vancouver, BC",46,2.8,3,Developing,Medium
+E0215,Human Resources,L1,"Toronto, ON",52,4.7,2,High,Medium
+E0216,Engineering,L2,"Toronto, ON",57,4.1,3,Solid,Low
+E0217,Engineering,L1,"Vancouver, BC",40,2.1,4,High,Medium
+E0218,Human Resources,L2,"Montreal, QC",36,1.4,2,Solid,Low
+E0219,Operations,L3,Remote - Canada,57,2.3,3,High,Medium
+E0220,Human Resources,L4,"Calgary, AB",33,0.3,3,Solid,Medium
+E0221,Operations,L2,"Montreal, QC",36,5.8,3,High,High
+E0222,Operations,L4,"Montreal, QC",56,2.1,3,Developing,Low
+E0223,Operations,L4,"Toronto, ON",42,1.0,4,Developing,High
+E0224,Sales,L4,"Ottawa, ON",30,5.8,4,High,Low
+E0225,Marketing,L2,Remote - Canada,38,5.7,3,High,Low
+E0226,Operations,L3,"Montreal, QC",36,0.6,4,Developing,High
+E0227,Sales,L2,"Ottawa, ON",46,8.3,4,Solid,Low
+E0228,Operations,L2,"Toronto, ON",28,0.5,4,Solid,Medium
+E0229,Human Resources,L1,"Vancouver, BC",23,4.7,3,Solid,Low
+E0230,Operations,L2,"Toronto, ON",38,4.9,2,Developing,High
+E0231,Sales,L4,"Vancouver, BC",25,4.5,3,Solid,Medium
+E0232,Finance,L2,"Toronto, ON",40,4.7,4,Developing,Low
+E0233,Operations,L1,Remote - Canada,56,0.3,3,Solid,High
+E0234,Engineering,L2,"Montreal, QC",54,2.8,3,Solid,High
+E0235,Operations,L3,"Toronto, ON",45,6.1,3,High,Medium
+E0236,Sales,L5,"Toronto, ON",57,2.0,4,Solid,Medium
+E0237,Customer Success,L3,"Calgary, AB",42,5.6,3,Developing,Medium
+E0238,Operations,L2,"Vancouver, BC",49,8.8,2,Solid,Medium
+E0239,Sales,L3,"Toronto, ON",34,7.6,3,Developing,Low
+E0240,Engineering,L3,"Vancouver, BC",31,0.3,4,Solid,Medium
+E0241,Engineering,L3,Remote - Canada,27,4.7,4,Solid,Low
+E0242,Human Resources,L4,"Vancouver, BC",39,1.3,4,Developing,Medium
+E0243,Customer Success,L2,"Ottawa, ON",44,3.4,3,Solid,High
+E0244,Customer Success,L3,"Vancouver, BC",37,2.7,2,Developing,Medium
+E0245,Human Resources,L4,"Vancouver, BC",36,3.3,3,Developing,Medium
+E0246,Operations,L2,"Ottawa, ON",52,1.5,3,Solid,Low
+E0247,Engineering,L2,"Calgary, AB",29,5.8,5,Solid,Medium
+E0248,Marketing,L2,"Calgary, AB",35,3.2,2,Solid,High
+E0249,Human Resources,L3,"Vancouver, BC",52,5.4,3,Developing,Medium
+E0250,Human Resources,L4,"Montreal, QC",57,0.3,2,High,Low
+E0251,Finance,L2,"Toronto, ON",51,3.2,4,Developing,Low
+E0252,Human Resources,L2,"Toronto, ON",36,2.9,4,Solid,High
+E0253,Finance,L1,Remote - Canada,23,9.2,3,Developing,Medium
+E0254,Operations,L2,Remote - Canada,30,0.3,3,High,Medium
+E0255,Legal & Compliance,L1,"Toronto, ON",37,4.4,3,High,Medium
+E0256,Customer Success,L3,"Montreal, QC",43,2.1,3,Solid,High
+E0257,Operations,L4,"Toronto, ON",29,4.3,3,Solid,High
+E0258,Sales,L4,"Toronto, ON",52,0.3,3,Developing,Medium
+E0259,Legal & Compliance,L2,"Toronto, ON",32,3.4,2,Developing,Medium
+E0260,Finance,L3,"Vancouver, BC",58,4.5,5,Developing,Medium
+E0261,Sales,L1,"Toronto, ON",42,7.7,5,Solid,Medium
+E0262,Sales,L2,"Montreal, QC",55,0.5,4,Solid,Medium
+E0263,Engineering,L3,"Vancouver, BC",46,1.3,4,Developing,Medium
+E0264,Operations,L1,"Toronto, ON",32,7.7,4,Solid,Medium
+E0265,Customer Success,L2,Remote - Canada,37,2.9,5,Solid,Medium
+E0266,Human Resources,L4,"Toronto, ON",34,6.4,3,Solid,Medium
+E0267,Human Resources,L2,"Toronto, ON",53,8.3,4,High,Low
+E0268,Engineering,L1,Remote - Canada,56,0.3,2,High,Medium
+E0269,Operations,L2,"Ottawa, ON",49,0.3,3,Solid,High
+E0270,Engineering,L4,"Toronto, ON",28,3.4,3,Developing,Medium
+E0271,Engineering,L3,"Montreal, QC",42,1.3,5,Solid,Medium
+E0272,Engineering,L2,"Toronto, ON",58,11.8,3,High,Medium
+E0273,Finance,L1,"Toronto, ON",38,0.4,5,High,Low
+E0274,Engineering,L3,"Toronto, ON",39,9.1,4,Developing,Low
+E0275,Sales,L4,"Ottawa, ON",30,4.1,3,Solid,High
+E0276,Engineering,L3,"Vancouver, BC",34,3.6,3,Solid,Low
+E0277,Engineering,L3,"Toronto, ON",58,5.4,2,Solid,Medium
+E0278,Engineering,L3,"Calgary, AB",35,1.8,4,Developing,Medium
+E0279,Legal & Compliance,L3,"Ottawa, ON",30,1.5,4,High,High
+E0280,Engineering,L3,"Vancouver, BC",43,0.3,4,High,Medium
+E0281,Finance,L2,"Vancouver, BC",46,10.3,3,High,High
+E0282,Operations,L3,"Vancouver, BC",52,4.1,3,Solid,Medium
+E0283,Sales,L3,"Toronto, ON",27,3.6,4,Developing,Low
+E0284,Finance,L2,"Montreal, QC",43,1.5,2,Solid,Low
+E0285,Marketing,L3,"Toronto, ON",32,4.0,3,High,Medium
+E0286,Operations,L2,"Vancouver, BC",54,4.4,3,High,High
+E0287,Customer Success,L3,"Calgary, AB",36,0.4,2,Developing,Medium
+E0288,Operations,L5,"Toronto, ON",36,8.1,3,Solid,High
+E0289,Sales,L5,"Toronto, ON",27,6.3,4,Solid,High
+E0290,Customer Success,L3,"Vancouver, BC",33,1.9,2,Solid,Low
+E0291,Engineering,L1,"Toronto, ON",55,10.7,4,Solid,Medium
+E0292,Human Resources,L2,"Toronto, ON",38,4.7,5,High,High
+E0293,Engineering,L2,"Toronto, ON",39,6.1,3,Solid,Medium
+E0294,Marketing,L1,"Toronto, ON",23,2.9,5,High,Low
+E0295,Human Resources,L2,"Ottawa, ON",37,3.3,4,Developing,Medium
+E0296,Operations,L5,"Toronto, ON",56,2.5,4,Developing,Medium
+E0297,Marketing,L6,"Montreal, QC",27,1.3,3,Developing,Medium
+E0298,Engineering,L3,"Vancouver, BC",24,2.9,4,High,Medium
+E0299,Legal & Compliance,L3,Remote - Canada,33,2.5,3,High,Low
+E0300,Customer Success,L3,"Toronto, ON",36,2.1,3,Developing,Medium
+E0301,Customer Success,L2,"Montreal, QC",45,4.2,3,Solid,Low
+E0302,Legal & Compliance,L4,"Toronto, ON",28,0.4,5,High,High
+E0303,Engineering,L2,"Vancouver, BC",28,4.8,3,Solid,Low
+E0304,Sales,L5,"Toronto, ON",24,5.8,3,High,Low
+E0305,Engineering,L2,"Toronto, ON",50,1.9,3,Solid,High
+E0306,Engineering,L2,"Toronto, ON",36,3.1,4,High,Medium
+E0307,Sales,L2,"Vancouver, BC",45,4.3,3,High,Low
+E0308,Legal & Compliance,L5,"Toronto, ON",32,4.4,5,Developing,Medium
+E0309,Human Resources,L4,Remote - Canada,39,5.0,3,Solid,Medium
+E0310,Operations,L4,Remote - Canada,58,4.1,4,Solid,Medium
+E0311,Engineering,L4,"Calgary, AB",58,0.3,3,Solid,Medium
+E0312,Customer Success,L4,Remote - Canada,27,2.4,4,Solid,Low
+E0313,Human Resources,L4,"Vancouver, BC",51,3.0,3,Solid,Medium
+E0314,Engineering,L6,"Vancouver, BC",46,2.7,2,Developing,Medium
+E0315,Engineering,L1,"Vancouver, BC",33,4.1,3,Solid,Medium
+E0316,Engineering,L3,"Toronto, ON",45,2.4,3,High,High
+E0317,Sales,L3,"Vancouver, BC",29,0.3,3,Solid,High
+E0318,Operations,L2,"Ottawa, ON",41,4.3,3,Solid,Medium
+E0319,Sales,L1,"Montreal, QC",46,2.5,3,Developing,Medium
+E0320,Engineering,L1,"Vancouver, BC",50,4.6,3,Developing,Medium
+E0321,Engineering,L1,"Vancouver, BC",30,5.8,2,Solid,Medium
+E0322,Sales,L3,"Montreal, QC",53,5.3,3,Solid,Low
+E0323,Customer Success,L4,"Montreal, QC",46,1.6,3,Solid,Low
+E0324,Operations,L5,"Toronto, ON",51,2.7,4,High,Medium
+E0325,Customer Success,L3,"Toronto, ON",42,2.2,3,Solid,High
+E0326,Sales,L3,"Montreal, QC",50,9.1,3,Developing,Medium
+E0327,Customer Success,L4,"Toronto, ON",42,3.0,4,Developing,High
+E0328,Sales,L2,Remote - Canada,49,1.6,3,Solid,High
+E0329,Customer Success,L3,"Montreal, QC",24,5.2,2,Solid,Medium
+E0330,Sales,L2,"Montreal, QC",33,0.3,5,Solid,Medium
+E0331,Customer Success,L5,"Montreal, QC",32,0.3,2,High,Medium
+E0332,Finance,L4,"Montreal, QC",56,7.6,4,Solid,Low
+E0333,Engineering,L1,"Toronto, ON",40,6.8,3,Solid,High
+E0334,Engineering,L4,"Montreal, QC",54,6.7,3,Developing,Medium
+E0335,Finance,L2,"Toronto, ON",27,2.0,4,Solid,Medium
+E0336,Customer Success,L3,"Toronto, ON",25,3.1,3,Developing,High
+E0337,Engineering,L3,"Toronto, ON",38,2.6,3,High,Medium
+E0338,Engineering,L1,"Montreal, QC",44,4.2,3,Developing,Low
+E0339,Marketing,L1,"Vancouver, BC",44,5.9,3,Solid,Medium
+E0340,Finance,L3,"Vancouver, BC",42,4.6,3,Solid,Low
+E0341,Sales,L2,"Montreal, QC",34,3.1,5,Solid,Low
+E0342,Sales,L1,"Vancouver, BC",43,1.8,3,Solid,Medium
+E0343,Legal & Compliance,L5,"Toronto, ON",53,9.9,3,Developing,Medium
+E0344,Customer Success,L4,"Vancouver, BC",31,0.6,3,Developing,Medium
+E0345,Finance,L2,"Vancouver, BC",29,1.7,3,High,Medium
+E0346,Sales,L2,"Ottawa, ON",48,4.5,2,Solid,Medium
+E0347,Customer Success,L3,"Toronto, ON",38,5.4,4,Solid,Medium
+E0348,Human Resources,L4,"Toronto, ON",23,7.9,3,Solid,Medium
+E0349,Finance,L3,"Vancouver, BC",38,3.3,4,High,Medium
+E0350,Sales,L1,"Toronto, ON",23,5.5,3,Solid,High
+E0351,Customer Success,L4,Remote - Canada,57,7.7,4,Solid,Low
+E0352,Engineering,L1,"Ottawa, ON",32,7.7,3,High,High
+E0353,Customer Success,L3,"Vancouver, BC",28,5.0,4,Developing,Medium
+E0354,Legal & Compliance,L2,"Vancouver, BC",36,1.1,2,Developing,Medium
+E0355,Customer Success,L5,"Calgary, AB",33,6.4,4,High,Low
+E0356,Human Resources,L3,"Toronto, ON",33,6.6,3,Developing,High
+E0357,Engineering,L3,"Toronto, ON",53,1.7,4,Developing,High
+E0358,Sales,L1,"Vancouver, BC",58,0.3,4,Developing,Medium
+E0359,Sales,L2,"Montreal, QC",56,6.2,4,Solid,Medium
+E0360,Customer Success,L1,"Ottawa, ON",42,7.0,3,High,Medium
+E0361,Human Resources,L2,"Vancouver, BC",39,5.5,3,Developing,Medium
+E0362,Sales,L2,"Toronto, ON",25,2.2,4,Solid,Medium
+E0363,Sales,L2,"Vancouver, BC",47,7.4,2,Developing,Medium
+E0364,Sales,L3,"Montreal, QC",33,0.3,3,Developing,Medium
+E0365,Marketing,L2,"Ottawa, ON",29,9.6,4,Solid,Medium
+E0366,Operations,L2,"Toronto, ON",58,3.3,5,Solid,High
+E0367,Customer Success,L2,"Toronto, ON",25,0.5,3,High,Medium
+E0368,Marketing,L1,"Toronto, ON",41,4.1,3,Solid,Low
+E0369,Operations,L5,"Toronto, ON",27,5.2,3,Solid,Low
+E0370,Sales,L1,"Montreal, QC",39,6.6,3,High,Medium
+E0371,Operations,L2,"Vancouver, BC",30,4.9,3,Solid,Medium
+E0372,Sales,L5,"Calgary, AB",50,5.3,4,High,Medium
+E0373,Finance,L5,"Toronto, ON",43,6.7,4,Developing,Low
+E0374,Engineering,L3,Remote - Canada,33,3.7,3,Developing,Medium
+E0375,Customer Success,L4,"Vancouver, BC",43,8.9,2,High,Medium
+E0376,Engineering,L2,"Montreal, QC",48,2.0,3,Solid,High
+E0377,Legal & Compliance,L1,"Vancouver, BC",33,9.7,5,Solid,Low
+E0378,Human Resources,L1,"Toronto, ON",40,0.3,4,Solid,Medium
+E0379,Legal & Compliance,L2,"Calgary, AB",33,2.6,3,Solid,Medium
+E0380,Operations,L1,"Vancouver, BC",44,5.1,4,Solid,Medium
+E0381,Engineering,L2,"Vancouver, BC",41,5.5,5,High,Medium
+E0382,Operations,L2,"Montreal, QC",33,0.3,4,Solid,Medium
+E0383,Sales,L3,"Montreal, QC",32,3.3,3,Developing,Medium
+E0384,Engineering,L3,"Montreal, QC",52,1.7,4,High,Medium
+E0385,Sales,L2,Remote - Canada,49,4.6,4,Solid,Low
+E0386,Operations,L1,"Calgary, AB",31,1.9,3,High,Medium
+E0387,Engineering,L4,"Toronto, ON",35,5.4,2,Solid,Low
+E0388,Engineering,L4,"Montreal, QC",26,8.7,5,Solid,Medium
+E0389,Customer Success,L4,"Calgary, AB",53,3.5,2,High,High
+E0390,Engineering,L2,"Calgary, AB",53,1.3,3,High,Medium
+E0391,Engineering,L1,"Ottawa, ON",47,3.6,4,High,Low
+E0392,Engineering,L4,"Ottawa, ON",24,7.2,3,Solid,Medium
+E0393,Finance,L2,"Montreal, QC",31,7.6,3,Solid,Medium
+E0394,Legal & Compliance,L4,Remote - Canada,36,2.0,5,Developing,Medium
+E0395,Engineering,L2,"Calgary, AB",28,6.6,4,High,Low
+E0396,Engineering,L2,"Vancouver, BC",40,5.4,4,Solid,Medium
+E0397,Marketing,L3,"Toronto, ON",43,4.9,5,Developing,High
+E0398,Sales,L4,"Toronto, ON",46,0.3,4,Developing,Medium
+E0399,Marketing,L2,Remote - Canada,54,2.1,3,High,Medium
+E0400,Operations,L3,"Vancouver, BC",39,1.0,3,High,High
+E0401,Engineering,L6,"Toronto, ON",41,5.3,3,Developing,High
+E0402,Human Resources,L3,"Ottawa, ON",27,6.4,4,High,Medium
+E0403,Human Resources,L3,"Toronto, ON",23,2.5,3,Solid,Low
+E0404,Operations,L2,"Calgary, AB",36,6.4,3,High,Medium
+E0405,Operations,L3,"Toronto, ON",27,5.9,3,Developing,Medium
+E0406,Human Resources,L1,"Toronto, ON",52,2.4,2,Solid,Low
+E0407,Engineering,L3,"Calgary, AB",30,1.6,5,Solid,High
+E0408,Customer Success,L1,"Toronto, ON",46,1.3,3,High,High
+E0409,Engineering,L3,"Calgary, AB",36,5.5,4,Developing,Medium
+E0410,Engineering,L4,"Toronto, ON",42,1.7,3,Solid,High
+E0411,Operations,L3,"Ottawa, ON",49,0.3,4,Solid,High
+E0412,Legal & Compliance,L5,"Ottawa, ON",23,4.4,4,High,Medium
+E0413,Engineering,L3,"Ottawa, ON",55,2.7,3,Solid,High
+E0414,Customer Success,L2,"Montreal, QC",44,5.9,3,High,Low
+E0415,Human Resources,L5,"Montreal, QC",38,6.6,3,Solid,Low
+E0416,Human Resources,L3,"Toronto, ON",35,5.6,2,Solid,High
+E0417,Operations,L4,"Ottawa, ON",55,10.0,4,Developing,Low
+E0418,Sales,L2,"Vancouver, BC",45,5.9,3,Developing,Medium
+E0419,Sales,L4,"Toronto, ON",36,5.4,4,Developing,Medium
+E0420,Engineering,L1,"Montreal, QC",41,0.7,2,Solid,Low
+E0421,Marketing,L1,"Ottawa, ON",35,5.1,3,Solid,Medium
+E0422,Engineering,L4,"Montreal, QC",39,2.6,2,Solid,High
+E0423,Operations,L1,"Montreal, QC",43,8.6,4,Solid,Medium
+E0424,Customer Success,L1,"Toronto, ON",41,2.4,3,Solid,Medium
+E0425,Customer Success,L2,"Vancouver, BC",44,12.5,4,Solid,Low
+E0426,Sales,L4,"Montreal, QC",52,0.3,4,Solid,Low
+E0427,Engineering,L4,Remote - Canada,28,9.0,4,Developing,Medium
+E0428,Engineering,L5,"Toronto, ON",47,7.1,4,Developing,High
+E0429,Legal & Compliance,L2,"Vancouver, BC",29,3.9,5,Solid,High
+E0430,Human Resources,L3,Remote - Canada,49,0.3,5,Solid,Low
+E0431,Human Resources,L4,"Vancouver, BC",45,5.4,3,Solid,Medium
+E0432,Human Resources,L5,Remote - Canada,57,6.6,3,Solid,Medium
+E0433,Legal & Compliance,L2,"Montreal, QC",38,6.6,4,Solid,Medium
+E0434,Human Resources,L1,"Ottawa, ON",40,3.4,3,High,Medium
+E0435,Finance,L3,"Ottawa, ON",41,3.0,3,Solid,Low
+E0436,Marketing,L4,"Vancouver, BC",24,9.9,3,Solid,Medium
+E0437,Operations,L4,"Toronto, ON",46,3.3,3,Solid,Medium
+E0438,Operations,L2,Remote - Canada,51,0.3,5,Developing,Medium
+E0439,Engineering,L2,"Toronto, ON",33,6.1,4,High,High
+E0440,Customer Success,L1,"Vancouver, BC",24,3.5,4,High,High
+E0441,Sales,L3,"Calgary, AB",41,0.3,4,Developing,Medium
+E0442,Customer Success,L5,"Toronto, ON",31,2.5,2,Developing,High
+E0443,Engineering,L2,"Toronto, ON",56,6.2,2,Solid,Low
+E0444,Operations,L4,"Montreal, QC",43,6.0,3,Solid,Medium
+E0445,Sales,L3,"Toronto, ON",28,1.7,2,Solid,Low
+E0446,Engineering,L2,Remote - Canada,47,7.3,2,Solid,High
+E0447,Finance,L2,"Ottawa, ON",40,2.0,3,Solid,Medium
+E0448,Marketing,L3,"Toronto, ON",28,0.4,5,Solid,Low
+E0449,Legal & Compliance,L2,"Montreal, QC",57,6.6,4,Developing,Medium
+E0450,Customer Success,L1,"Vancouver, BC",30,2.4,3,Solid,High
+E0451,Legal & Compliance,L2,"Vancouver, BC",56,2.4,2,Solid,High
+E0452,Operations,L2,"Calgary, AB",55,11.8,4,Solid,High
+E0453,Sales,L3,"Toronto, ON",56,3.6,3,Solid,Medium
+E0454,Customer Success,L3,"Toronto, ON",29,10.4,4,High,Medium
+E0455,Finance,L3,"Montreal, QC",58,5.9,5,Solid,High
+E0456,Legal & Compliance,L4,Remote - Canada,28,0.6,4,Developing,High
+E0457,Sales,L4,"Vancouver, BC",58,1.2,2,Solid,High
+E0458,Customer Success,L5,"Vancouver, BC",42,4.7,4,Developing,Low
+E0459,Marketing,L2,"Calgary, AB",24,11.1,4,Developing,Low
+E0460,Human Resources,L2,"Vancouver, BC",45,7.1,3,Developing,Medium
+E0461,Marketing,L2,"Montreal, QC",38,5.4,4,High,Medium
+E0462,Customer Success,L2,"Toronto, ON",58,3.0,3,Solid,High
+E0463,Engineering,L5,"Montreal, QC",52,9.8,2,Solid,High
+E0464,Sales,L4,"Vancouver, BC",36,5.5,3,Developing,Medium
+E0465,Engineering,L3,"Toronto, ON",42,0.4,3,High,High
+E0466,Customer Success,L2,"Vancouver, BC",47,8.4,3,Solid,High
+E0467,Operations,L3,"Montreal, QC",39,1.1,4,High,High
+E0468,Engineering,L1,"Toronto, ON",23,5.1,4,Solid,Medium
+E0469,Customer Success,L2,"Vancouver, BC",24,6.2,3,Solid,Low
+E0470,Engineering,L5,"Montreal, QC",33,3.0,2,Developing,Medium
+E0471,Engineering,L6,"Montreal, QC",27,3.8,3,Solid,Medium
+E0472,Finance,L5,"Toronto, ON",48,2.3,2,Solid,Medium
+E0473,Legal & Compliance,L4,"Calgary, AB",37,0.3,4,High,Medium
+E0474,Engineering,L6,"Toronto, ON",37,4.2,3,High,Medium
+E0475,Engineering,L2,"Calgary, AB",43,8.8,4,Solid,Low
+E0476,Finance,L1,"Vancouver, BC",44,4.0,2,Solid,Medium
+E0477,Engineering,L3,"Vancouver, BC",57,3.9,3,Developing,Low
+E0478,Sales,L4,"Montreal, QC",49,5.6,5,Solid,High
+E0479,Sales,L3,"Montreal, QC",38,2.1,3,Solid,High
+E0480,Engineering,L2,"Ottawa, ON",33,6.6,3,Solid,Medium
+E0481,Finance,L4,"Toronto, ON",50,4.0,3,Developing,Medium
+E0482,Finance,L1,"Toronto, ON",53,6.0,3,High,Medium
+E0483,Finance,L3,"Toronto, ON",29,4.1,3,Solid,Medium
+E0484,Operations,L3,Remote - Canada,49,5.3,3,Solid,Low
+E0485,Engineering,L4,"Vancouver, BC",32,1.0,4,Solid,Medium
+E0486,Sales,L4,"Vancouver, BC",31,8.9,3,High,Medium
+E0487,Customer Success,L2,"Toronto, ON",43,2.2,4,Solid,High
+E0488,Human Resources,L4,"Toronto, ON",44,5.0,3,Solid,High
+E0489,Engineering,L3,Remote - Canada,25,5.3,4,Solid,Medium
+E0490,Marketing,L1,"Toronto, ON",50,0.9,4,Developing,Low
+E0491,Engineering,L3,"Vancouver, BC",34,5.6,3,High,Medium
+E0492,Marketing,L1,"Vancouver, BC",39,3.3,4,High,High
+E0493,Sales,L2,"Vancouver, BC",47,0.3,4,Solid,High
+E0494,Human Resources,L3,"Montreal, QC",24,12.6,3,Solid,Low
+E0495,Engineering,L4,"Toronto, ON",54,7.3,2,Developing,Medium
+E0496,Customer Success,L2,"Vancouver, BC",47,5.0,3,Solid,Medium
+E0497,Operations,L2,"Calgary, AB",38,4.8,4,Solid,High
+E0498,Marketing,L4,"Montreal, QC",56,2.8,3,Solid,Medium
+E0499,Engineering,L2,"Vancouver, BC",40,1.8,4,Solid,Medium
+E0500,Customer Success,L1,"Vancouver, BC",56,9.9,3,Developing,Low
+E0501,Sales,L4,"Ottawa, ON",51,5.8,4,High,High
+E0502,Engineering,L3,"Vancouver, BC",50,1.0,5,Solid,High
+E0503,Human Resources,L4,Remote - Canada,32,1.8,3,Solid,High
+E0504,Operations,L4,"Vancouver, BC",42,3.4,3,Solid,Medium
+E0505,Operations,L3,"Toronto, ON",58,4.3,3,High,High
+E0506,Human Resources,L2,"Toronto, ON",31,2.7,3,Solid,Medium
+E0507,Sales,L1,"Vancouver, BC",46,4.8,4,Solid,Medium
+E0508,Sales,L3,"Vancouver, BC",49,3.5,3,High,High
+E0509,Finance,L4,"Vancouver, BC",32,0.3,4,Solid,High
+E0510,Sales,L3,"Montreal, QC",40,3.8,4,High,Low
+E0511,Sales,L2,"Toronto, ON",38,4.2,3,Solid,Medium
+E0512,Finance,L2,"Montreal, QC",33,11.7,3,High,Low
+E0513,Human Resources,L3,Remote - Canada,35,0.4,4,High,Medium
+E0514,Engineering,L3,"Montreal, QC",58,4.7,4,Solid,Low
+E0515,Operations,L2,"Toronto, ON",32,7.9,3,High,Medium
+E0516,Customer Success,L4,"Montreal, QC",48,4.5,3,Developing,Medium
+E0517,Customer Success,L5,"Vancouver, BC",26,9.8,3,Developing,High
+E0518,Operations,L2,"Vancouver, BC",46,6.4,3,Solid,Medium
+E0519,Customer Success,L3,"Toronto, ON",56,3.3,3,Developing,Low
+E0520,Operations,L4,"Vancouver, BC",35,1.7,3,Solid,High
+E0521,Customer Success,L3,"Vancouver, BC",32,11.8,3,Developing,Low
+E0522,Engineering,L3,"Vancouver, BC",50,7.1,2,Solid,Low
+E0523,Legal & Compliance,L3,"Montreal, QC",44,3.2,4,Developing,Medium
+E0524,Operations,L3,"Toronto, ON",49,8.1,4,Solid,Low
+E0525,Human Resources,L4,"Ottawa, ON",51,3.5,2,Solid,High
+E0526,Engineering,L3,"Vancouver, BC",26,6.0,3,Solid,Low
+E0527,Human Resources,L2,"Toronto, ON",27,4.2,3,Solid,Medium
+E0528,Engineering,L3,"Toronto, ON",39,3.7,3,Developing,Medium
+E0529,Engineering,L3,"Calgary, AB",37,8.7,3,Solid,Medium
+E0530,Engineering,L2,"Toronto, ON",33,4.4,3,Solid,Low
+E0531,Engineering,L3,"Toronto, ON",30,0.3,3,High,Medium
+E0532,Human Resources,L2,"Vancouver, BC",39,2.4,3,Solid,Low
+E0533,Marketing,L3,"Vancouver, BC",24,4.9,3,Solid,Low
+E0534,Sales,L3,"Montreal, QC",43,5.6,3,Developing,Medium
+E0535,Sales,L4,"Toronto, ON",33,5.3,4,Solid,High
+E0536,Operations,L2,"Toronto, ON",51,1.7,4,High,Low
+E0537,Engineering,L4,"Toronto, ON",45,3.5,3,Solid,High
+E0538,Sales,L3,"Montreal, QC",43,5.4,4,Solid,Medium
+E0539,Legal & Compliance,L4,"Montreal, QC",31,0.8,3,Developing,Medium
+E0540,Engineering,L1,"Toronto, ON",23,5.5,3,High,High
+E0541,Sales,L1,"Toronto, ON",40,2.6,2,Developing,Low
+E0542,Finance,L2,"Vancouver, BC",42,6.7,3,Solid,Medium
+E0543,Marketing,L2,Remote - Canada,23,6.6,4,Solid,Medium
+E0544,Sales,L3,"Vancouver, BC",38,0.4,3,Solid,High
+E0545,Customer Success,L6,"Vancouver, BC",51,5.2,3,Solid,Medium
+E0546,Legal & Compliance,L5,"Toronto, ON",40,6.5,3,Solid,High
+E0547,Human Resources,L4,"Vancouver, BC",49,7.0,2,High,Medium
+E0548,Operations,L2,"Ottawa, ON",36,4.9,2,Solid,High
+E0549,Operations,L4,Remote - Canada,55,6.4,3,Developing,Medium
+E0550,Customer Success,L2,"Toronto, ON",41,5.1,3,Developing,Medium
+E0551,Customer Success,L1,"Montreal, QC",28,3.4,4,Solid,High
+E0552,Finance,L5,"Toronto, ON",35,6.2,4,Solid,Medium
+E0553,Finance,L4,"Toronto, ON",31,3.3,4,Solid,Medium
+E0554,Engineering,L2,"Toronto, ON",35,8.4,3,Developing,Medium
+E0555,Operations,L2,"Montreal, QC",52,3.8,4,High,Medium
+E0556,Engineering,L2,"Toronto, ON",40,3.4,3,Solid,High
+E0557,Sales,L2,"Vancouver, BC",30,2.3,3,Solid,Medium
+E0558,Sales,L6,"Montreal, QC",25,6.6,3,Solid,Medium
+E0559,Sales,L4,"Montreal, QC",24,8.4,5,Developing,High
+E0560,Engineering,L3,"Vancouver, BC",42,3.2,5,Solid,Low
+E0561,Engineering,L3,"Calgary, AB",58,6.1,5,Developing,Medium
+E0562,Human Resources,L4,"Calgary, AB",23,5.1,3,Developing,Medium
+E0563,Sales,L1,"Calgary, AB",43,3.3,3,Solid,Low
+E0564,Finance,L3,"Vancouver, BC",50,3.0,3,Solid,Low
+E0565,Sales,L2,"Calgary, AB",25,2.9,3,Solid,Medium
+E0566,Marketing,L3,"Toronto, ON",46,0.3,3,Developing,Medium
+E0567,Engineering,L1,"Toronto, ON",39,4.6,4,Solid,Medium
+E0568,Engineering,L3,"Montreal, QC",48,5.9,3,Solid,High
+E0569,Operations,L4,"Toronto, ON",23,3.1,3,Solid,Medium
+E0570,Customer Success,L3,"Vancouver, BC",34,3.9,2,Solid,Low
+E0571,Marketing,L1,"Toronto, ON",57,5.9,5,Solid,Medium
+E0572,Customer Success,L4,"Vancouver, BC",42,3.7,3,Solid,Medium
+E0573,Engineering,L2,"Calgary, AB",26,3.9,4,Developing,High
+E0574,Sales,L2,"Ottawa, ON",31,5.0,4,High,Medium
+E0575,Operations,L4,"Vancouver, BC",36,7.9,4,Developing,Low
+E0576,Sales,L3,"Calgary, AB",33,10.3,2,Solid,High
+E0577,Marketing,L6,"Vancouver, BC",29,7.5,3,Solid,Medium
+E0578,Engineering,L3,"Toronto, ON",52,6.5,2,Solid,Low
+E0579,Sales,L3,"Ottawa, ON",40,4.2,3,High,Medium
+E0580,Customer Success,L4,Remote - Canada,46,10.0,3,High,High
+E0581,Human Resources,L2,"Vancouver, BC",48,0.3,3,Solid,Medium
+E0582,Engineering,L4,"Toronto, ON",55,1.2,5,Solid,High
+E0583,Human Resources,L2,"Vancouver, BC",53,1.6,2,Developing,High
+E0584,Engineering,L4,"Toronto, ON",32,1.9,3,Developing,High
+E0585,Legal & Compliance,L4,Remote - Canada,33,5.7,4,Solid,Medium
+E0586,Finance,L2,"Toronto, ON",53,4.8,3,Solid,Medium
+E0587,Customer Success,L2,"Montreal, QC",56,6.2,2,Developing,Medium
+E0588,Sales,L4,"Toronto, ON",56,0.3,5,Solid,High
+E0589,Engineering,L5,"Toronto, ON",46,6.2,4,Developing,Medium
+E0590,Human Resources,L1,"Toronto, ON",53,8.7,3,High,High
+E0591,Marketing,L2,Remote - Canada,58,11.8,3,High,Low
+E0592,Finance,L2,"Calgary, AB",49,1.5,3,Developing,Medium
+E0593,Sales,L4,"Calgary, AB",40,4.2,3,High,Medium
+E0594,Operations,L5,"Calgary, AB",28,1.0,3,Developing,Medium
+E0595,Operations,L3,"Montreal, QC",44,7.0,3,Developing,Medium
+E0596,Finance,L3,"Toronto, ON",49,9.1,4,High,Medium
+E0597,Engineering,L1,"Toronto, ON",33,0.3,3,High,High
+E0598,Operations,L5,"Toronto, ON",40,0.3,4,Solid,Medium
+E0599,Engineering,L5,"Calgary, AB",41,10.2,4,Solid,Medium
+E0600,Human Resources,L2,"Toronto, ON",27,4.8,3,Solid,High
