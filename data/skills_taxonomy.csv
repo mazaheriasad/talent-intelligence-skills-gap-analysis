@@ -1,0 +1,41 @@
+﻿CanonicalSkill,SkillCategory,SkillType,Aliases_For_NLP
+Python,Data & Analytics,Technical,python
+SQL,Data & Analytics,Technical,sql; structured query language
+Power BI,Business Intelligence,Technical,powerbi; microsoft power bi; power-bi
+DAX,Business Intelligence,Technical,data analysis expressions; dax
+Power Query,Business Intelligence,Technical,powerquery; m language; power query
+Excel,Business Intelligence,Technical,excel
+Statistics,Data & Analytics,Analytical,statistics
+Data Visualization,Business Intelligence,Analytical,data visualization
+Data Modeling,Data & Analytics,Technical,data modeling
+Machine Learning,AI & Advanced Analytics,Technical,ml; machine learning
+NLP,AI & Advanced Analytics,Technical,nlp; natural language processing
+Generative AI,AI & Advanced Analytics,Technical,genai; generative ai; gen ai
+Forecasting,Workforce Planning,Analytical,forecasting
+Scenario Modeling,Workforce Planning,Analytical,scenario modeling
+Data Governance,Data Management,Business,data governance
+Data Quality,Data Management,Business,data quality
+People Analytics,People Analytics,Business,people analytics; hr analytics; workforce people analytics
+Workforce Analytics,People Analytics,Business,workforce analytics; workforce insights
+Talent Analytics,Talent Intelligence,Business,talent analytics
+Talent Intelligence,Talent Intelligence,Business,talent intelligence; talent intel
+Workforce Planning,Workforce Planning,Business,workforce planning
+Skills Taxonomy,Talent Intelligence,Business,skills taxonomy
+Skills Gap Analysis,Talent Intelligence,Analytical,skills gap; skill gap analysis; skills gap analysis
+Internal Mobility,Talent Management,Business,internal mobility
+Succession Planning,Talent Management,Business,succession planning
+Talent Management,Talent Management,Business,talent management
+Employee Engagement,Employee Experience,Business,employee engagement
+Turnover Analysis,People Analytics,Analytical,turnover analysis
+Compensation Analytics,Rewards,Analytical,compensation analytics
+Learning Analytics,Learning & Development,Analytical,learning analytics
+HRIS,HR Technology,Technical,hris; human resources information system
+HR Data Management,HR Technology,Business,hr data management
+Recruiting Analytics,Talent Acquisition,Analytical,recruiting analytics
+Performance Analytics,Performance Management,Analytical,performance analytics
+Stakeholder Management,Business Partnering,Business,stakeholder management
+Business Acumen,Business Partnering,Business,business acumen
+Data Storytelling,Business Partnering,Business,data storytelling
+Project Management,Delivery,Business,project management
+Change Management,Delivery,Business,change management
+Communication,Leadership,Leadership,communication

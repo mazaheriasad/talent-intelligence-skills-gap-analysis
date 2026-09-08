@@ -1,0 +1,87 @@
+﻿RoleID,RoleName,Skill,RequiredProficiency,ImportanceWeight,Mandatory,SkillCategory,SkillType
+R001,People Analytics Specialist,People Analytics,4,3,Yes,People Analytics,Business
+R001,People Analytics Specialist,Power BI,4,3,Yes,Business Intelligence,Technical
+R001,People Analytics Specialist,DAX,3,2,No,Business Intelligence,Technical
+R001,People Analytics Specialist,SQL,3,3,Yes,Data & Analytics,Technical
+R001,People Analytics Specialist,Statistics,3,2,No,Data & Analytics,Analytical
+R001,People Analytics Specialist,Data Visualization,4,3,Yes,Business Intelligence,Analytical
+R001,People Analytics Specialist,Data Storytelling,4,3,Yes,Business Partnering,Business
+R001,People Analytics Specialist,Stakeholder Management,3,2,No,Business Partnering,Business
+R001,People Analytics Specialist,Data Quality,3,2,No,Data Management,Business
+R001,People Analytics Specialist,Excel,4,2,No,Business Intelligence,Technical
+R001,People Analytics Specialist,Turnover Analysis,3,2,No,People Analytics,Analytical
+R001,People Analytics Specialist,Employee Engagement,3,1,No,Employee Experience,Business
+R002,Senior People Analytics Analyst,People Analytics,5,3,Yes,People Analytics,Business
+R002,Senior People Analytics Analyst,Power BI,4,2,No,Business Intelligence,Technical
+R002,Senior People Analytics Analyst,DAX,4,2,No,Business Intelligence,Technical
+R002,Senior People Analytics Analyst,SQL,4,3,Yes,Data & Analytics,Technical
+R002,Senior People Analytics Analyst,Python,3,2,No,Data & Analytics,Technical
+R002,Senior People Analytics Analyst,Statistics,4,3,Yes,Data & Analytics,Analytical
+R002,Senior People Analytics Analyst,Data Modeling,4,2,No,Data & Analytics,Technical
+R002,Senior People Analytics Analyst,Data Storytelling,5,3,Yes,Business Partnering,Business
+R002,Senior People Analytics Analyst,Stakeholder Management,4,3,Yes,Business Partnering,Business
+R002,Senior People Analytics Analyst,Workforce Analytics,4,3,Yes,People Analytics,Business
+R002,Senior People Analytics Analyst,Data Governance,3,2,No,Data Management,Business
+R002,Senior People Analytics Analyst,Business Acumen,4,2,No,Business Partnering,Business
+R003,Talent Intelligence Analyst,Talent Intelligence,5,3,Yes,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Skills Taxonomy,4,3,Yes,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Skills Gap Analysis,4,3,Yes,Talent Intelligence,Analytical
+R003,Talent Intelligence Analyst,Python,3,2,No,Data & Analytics,Technical
+R003,Talent Intelligence Analyst,NLP,3,2,No,AI & Advanced Analytics,Technical
+R003,Talent Intelligence Analyst,Generative AI,3,1,No,AI & Advanced Analytics,Technical
+R003,Talent Intelligence Analyst,Talent Analytics,4,3,Yes,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Internal Mobility,4,3,Yes,Talent Management,Business
+R003,Talent Intelligence Analyst,Data Visualization,3,2,No,Business Intelligence,Analytical
+R003,Talent Intelligence Analyst,Stakeholder Management,3,2,No,Business Partnering,Business
+R003,Talent Intelligence Analyst,Data Storytelling,3,2,No,Business Partnering,Business
+R004,Workforce Planning Analyst,Workforce Planning,5,3,Yes,Workforce Planning,Business
+R004,Workforce Planning Analyst,Forecasting,4,3,Yes,Workforce Planning,Analytical
+R004,Workforce Planning Analyst,Scenario Modeling,4,3,Yes,Workforce Planning,Analytical
+R004,Workforce Planning Analyst,Excel,4,2,No,Business Intelligence,Technical
+R004,Workforce Planning Analyst,Power BI,3,2,No,Business Intelligence,Technical
+R004,Workforce Planning Analyst,Statistics,3,2,No,Data & Analytics,Analytical
+R004,Workforce Planning Analyst,Workforce Analytics,4,3,Yes,People Analytics,Business
+R004,Workforce Planning Analyst,Business Acumen,4,2,No,Business Partnering,Business
+R004,Workforce Planning Analyst,Stakeholder Management,4,2,No,Business Partnering,Business
+R004,Workforce Planning Analyst,Data Storytelling,3,2,No,Business Partnering,Business
+R005,HR Data Analyst,HR Data Management,4,3,Yes,HR Technology,Business
+R005,HR Data Analyst,Excel,4,2,No,Business Intelligence,Technical
+R005,HR Data Analyst,SQL,3,3,Yes,Data & Analytics,Technical
+R005,HR Data Analyst,Power BI,3,2,No,Business Intelligence,Technical
+R005,HR Data Analyst,Data Quality,4,3,Yes,Data Management,Business
+R005,HR Data Analyst,HRIS,3,3,Yes,HR Technology,Technical
+R005,HR Data Analyst,Data Governance,3,2,No,Data Management,Business
+R005,HR Data Analyst,People Analytics,2,1,No,People Analytics,Business
+R005,HR Data Analyst,Communication,3,1,No,Leadership,Leadership
+R006,People Analytics Manager,People Analytics,5,3,Yes,People Analytics,Business
+R006,People Analytics Manager,Workforce Analytics,5,3,Yes,People Analytics,Business
+R006,People Analytics Manager,Stakeholder Management,5,3,Yes,Business Partnering,Business
+R006,People Analytics Manager,Business Acumen,5,3,Yes,Business Partnering,Business
+R006,People Analytics Manager,Data Storytelling,5,3,Yes,Business Partnering,Business
+R006,People Analytics Manager,Power BI,4,2,No,Business Intelligence,Technical
+R006,People Analytics Manager,SQL,3,2,No,Data & Analytics,Technical
+R006,People Analytics Manager,Data Governance,4,2,No,Data Management,Business
+R006,People Analytics Manager,Project Management,4,2,No,Delivery,Business
+R006,People Analytics Manager,Change Management,4,2,No,Delivery,Business
+R006,People Analytics Manager,Talent Analytics,4,2,No,Talent Intelligence,Business
+R006,People Analytics Manager,Workforce Planning,4,2,No,Workforce Planning,Business
+R007,HRIS & People Data Specialist,HRIS,5,3,Yes,HR Technology,Technical
+R007,HRIS & People Data Specialist,HR Data Management,5,3,Yes,HR Technology,Business
+R007,HRIS & People Data Specialist,SQL,4,3,Yes,Data & Analytics,Technical
+R007,HRIS & People Data Specialist,Data Quality,4,3,Yes,Data Management,Business
+R007,HRIS & People Data Specialist,Data Governance,4,3,Yes,Data Management,Business
+R007,HRIS & People Data Specialist,Power BI,3,2,No,Business Intelligence,Technical
+R007,HRIS & People Data Specialist,Data Modeling,3,2,No,Data & Analytics,Technical
+R007,HRIS & People Data Specialist,People Analytics,3,2,No,People Analytics,Business
+R007,HRIS & People Data Specialist,Project Management,3,1,No,Delivery,Business
+R007,HRIS & People Data Specialist,Stakeholder Management,3,1,No,Business Partnering,Business
+R008,Talent Management Analytics Specialist,Talent Management,5,3,Yes,Talent Management,Business
+R008,Talent Management Analytics Specialist,Talent Analytics,4,3,Yes,Talent Intelligence,Business
+R008,Talent Management Analytics Specialist,Succession Planning,4,3,Yes,Talent Management,Business
+R008,Talent Management Analytics Specialist,Internal Mobility,4,3,Yes,Talent Management,Business
+R008,Talent Management Analytics Specialist,Performance Analytics,3,2,No,Performance Management,Analytical
+R008,Talent Management Analytics Specialist,Learning Analytics,3,2,No,Learning & Development,Analytical
+R008,Talent Management Analytics Specialist,People Analytics,3,2,No,People Analytics,Business
+R008,Talent Management Analytics Specialist,Data Visualization,3,2,No,Business Intelligence,Analytical
+R008,Talent Management Analytics Specialist,Stakeholder Management,4,2,No,Business Partnering,Business
+R008,Talent Management Analytics Specialist,Communication,4,2,No,Leadership,Leadership
