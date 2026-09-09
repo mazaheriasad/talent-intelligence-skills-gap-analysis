@@ -1,0 +1,14 @@
+Check,Failures,Status
+EmployeeID is unique in employee_master,0,PASS
+No duplicate employee-skill pairs,0,PASS
+Canonical skills are unique,0,PASS
+RoleID is unique in target_roles,0,PASS
+No duplicate role-skill pairs,0,PASS
+All employee-skill EmployeeIDs exist,0,PASS
+All role-skill RoleIDs exist,0,PASS
+All employee skills map to taxonomy,0,PASS
+All role skills map to taxonomy,0,PASS
+No missing values in source tables,0,PASS
+Employee proficiency is within 1–5,0,PASS
+Required proficiency is within 1–5,0,PASS
+Importance weight is within 1–3,0,PASS
