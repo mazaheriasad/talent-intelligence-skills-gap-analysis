@@ -1,0 +1,86 @@
+RoleID,RoleName,Skill,CandidateGapOccurrences,AvgGap,RequiredProficiency,ImportanceWeight,PriorityIndex
+R001,People Analytics Specialist,Data Visualization,10,2.7,4,3,81.0
+R001,People Analytics Specialist,Turnover Analysis,10,3.0,3,2,60.0
+R001,People Analytics Specialist,DAX,10,2.6,3,2,52.0
+R001,People Analytics Specialist,Power BI,8,2.125,4,3,51.0
+R001,People Analytics Specialist,Excel,10,2.1,4,2,42.0
+R001,People Analytics Specialist,People Analytics,6,2.1666666666666665,4,3,39.0
+R001,People Analytics Specialist,Data Quality,7,2.7142857142857144,3,2,38.0
+R001,People Analytics Specialist,SQL,5,2.2,3,3,33.0
+R001,People Analytics Specialist,Statistics,6,2.0,3,2,24.0
+R001,People Analytics Specialist,Employee Engagement,7,3.0,3,1,21.0
+R001,People Analytics Specialist,Data Storytelling,2,2.5,4,3,15.0
+R001,People Analytics Specialist,Stakeholder Management,2,1.0,3,2,4.0
+R002,Senior People Analytics Analyst,Workforce Analytics,10,4.0,4,3,120.0
+R002,Senior People Analytics Analyst,People Analytics,9,3.7777777777777777,5,3,102.0
+R002,Senior People Analytics Analyst,Statistics,10,3.2,4,3,96.0
+R002,Senior People Analytics Analyst,DAX,10,3.3,4,2,66.0
+R002,Senior People Analytics Analyst,Power BI,9,3.4444444444444446,4,2,62.0
+R002,Senior People Analytics Analyst,SQL,5,2.6,4,3,39.0
+R002,Senior People Analytics Analyst,Data Storytelling,8,1.25,5,3,30.0
+R002,Senior People Analytics Analyst,Data Modeling,6,2.0,4,2,24.0
+R002,Senior People Analytics Analyst,Data Governance,5,1.8,3,2,18.0
+R002,Senior People Analytics Analyst,Python,4,2.25,3,2,18.0
+R002,Senior People Analytics Analyst,Business Acumen,6,1.0,4,2,12.0
+R002,Senior People Analytics Analyst,Stakeholder Management,1,1.0,4,3,3.0
+R003,Talent Intelligence Analyst,Talent Intelligence,10,4.3,5,3,129.0
+R003,Talent Intelligence Analyst,Skills Taxonomy,10,4.0,4,3,120.0
+R003,Talent Intelligence Analyst,Skills Gap Analysis,9,3.6666666666666665,4,3,99.0
+R003,Talent Intelligence Analyst,Internal Mobility,10,3.2,4,3,96.0
+R003,Talent Intelligence Analyst,Talent Analytics,9,3.3333333333333335,4,3,90.0
+R003,Talent Intelligence Analyst,Data Visualization,10,2.2,3,2,44.0
+R003,Talent Intelligence Analyst,NLP,4,3.0,3,2,24.0
+R003,Talent Intelligence Analyst,Python,4,2.5,3,2,20.0
+R003,Talent Intelligence Analyst,Generative AI,5,2.2,3,1,11.0
+R003,Talent Intelligence Analyst,Data Storytelling,2,2.5,3,2,10.0
+R003,Talent Intelligence Analyst,Stakeholder Management,1,1.0,3,2,2.0
+R004,Workforce Planning Analyst,Workforce Planning,10,4.1,5,3,123.0
+R004,Workforce Planning Analyst,Workforce Analytics,10,4.0,4,3,120.0
+R004,Workforce Planning Analyst,Forecasting,10,2.1,4,3,63.0
+R004,Workforce Planning Analyst,Scenario Modeling,8,1.875,4,3,45.0
+R004,Workforce Planning Analyst,Excel,10,1.9,4,2,38.0
+R004,Workforce Planning Analyst,Power BI,5,2.4,3,2,24.0
+R004,Workforce Planning Analyst,Statistics,8,1.5,3,2,24.0
+R004,Workforce Planning Analyst,Business Acumen,4,1.25,4,2,10.0
+R004,Workforce Planning Analyst,Data Storytelling,1,1.0,3,2,2.0
+R004,Workforce Planning Analyst,Stakeholder Management,1,1.0,4,2,2.0
+R005,HR Data Analyst,Data Quality,10,2.6,4,3,78.0
+R005,HR Data Analyst,HR Data Management,6,3.5,4,3,63.0
+R005,HR Data Analyst,Data Governance,10,3.0,3,2,60.0
+R005,HR Data Analyst,Excel,10,3.0,4,2,60.0
+R005,HR Data Analyst,SQL,5,1.6,3,3,24.0
+R005,HR Data Analyst,Power BI,5,2.0,3,2,20.0
+R005,HR Data Analyst,HRIS,2,3.0,3,3,18.0
+R005,HR Data Analyst,Communication,7,1.8571428571428572,3,1,13.0
+R005,HR Data Analyst,People Analytics,5,2.0,2,1,10.0
+R006,People Analytics Manager,Workforce Analytics,10,5.0,5,3,150.0
+R006,People Analytics Manager,People Analytics,9,4.0,5,3,108.0
+R006,People Analytics Manager,Data Governance,10,3.2,4,2,64.0
+R006,People Analytics Manager,Talent Analytics,9,3.2222222222222223,4,2,58.0
+R006,People Analytics Manager,Workforce Planning,8,3.25,4,2,52.0
+R006,People Analytics Manager,Project Management,9,2.3333333333333335,4,2,42.0
+R006,People Analytics Manager,Power BI,7,2.857142857142857,4,2,40.0
+R006,People Analytics Manager,Business Acumen,6,1.3333333333333333,5,3,24.0
+R006,People Analytics Manager,SQL,5,2.2,3,2,22.0
+R006,People Analytics Manager,Stakeholder Management,6,1.0,5,3,18.0
+R006,People Analytics Manager,Data Storytelling,4,1.0,5,3,12.0
+R007,HRIS & People Data Specialist,HRIS,10,4.2,5,3,126.0
+R007,HRIS & People Data Specialist,HR Data Management,8,5.0,5,3,120.0
+R007,HRIS & People Data Specialist,Data Governance,10,2.0,4,3,60.0
+R007,HRIS & People Data Specialist,Power BI,10,2.4,3,2,48.0
+R007,HRIS & People Data Specialist,Data Quality,9,1.6666666666666667,4,3,45.0
+R007,HRIS & People Data Specialist,People Analytics,9,1.8888888888888888,3,2,34.0
+R007,HRIS & People Data Specialist,SQL,5,1.8,4,3,27.0
+R007,HRIS & People Data Specialist,Project Management,7,2.2857142857142856,3,1,16.0
+R007,HRIS & People Data Specialist,Data Modeling,3,1.6666666666666667,3,2,10.0
+R007,HRIS & People Data Specialist,Stakeholder Management,4,2.0,3,1,8.0
+R008,Talent Management Analytics Specialist,Succession Planning,10,4.0,4,3,120.0
+R008,Talent Management Analytics Specialist,Internal Mobility,10,3.3,4,3,99.0
+R008,Talent Management Analytics Specialist,Talent Management,9,2.888888888888889,5,3,78.0
+R008,Talent Management Analytics Specialist,Talent Analytics,7,2.7142857142857144,4,3,57.0
+R008,Talent Management Analytics Specialist,Learning Analytics,9,2.888888888888889,3,2,52.0
+R008,Talent Management Analytics Specialist,Communication,10,2.2,4,2,44.0
+R008,Talent Management Analytics Specialist,Data Visualization,7,1.8571428571428572,3,2,26.0
+R008,Talent Management Analytics Specialist,Stakeholder Management,7,1.7142857142857142,4,2,24.0
+R008,Talent Management Analytics Specialist,Performance Analytics,4,2.0,3,2,16.0
+R008,Talent Management Analytics Specialist,People Analytics,2,3.0,3,2,12.0

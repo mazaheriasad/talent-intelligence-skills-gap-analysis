@@ -1,0 +1,9 @@
+RoleID,RoleName,AvgReadiness,MedianReadiness,ReadyNow,NearReady,Developing,SignificantGap
+R001,People Analytics Specialist,20.0915,19.2,0,0,1,599
+R005,HR Data Analyst,18.5595,15.75,0,0,0,600
+R004,Workforce Planning Analyst,18.4435,18.3,0,0,1,599
+R002,Senior People Analytics Analyst,18.020833333333332,16.85,0,0,0,600
+R006,People Analytics Manager,17.892666666666667,13.8,0,0,0,600
+R007,HRIS & People Data Specialist,16.100166666666667,14.2,0,0,0,600
+R003,Talent Intelligence Analyst,11.649,12.0,0,0,0,600
+R008,Talent Management Analytics Specialist,9.0245,7.1,0,0,0,600
