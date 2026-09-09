@@ -1,0 +1,71 @@
+RoleID,RoleName,CanonicalSkill,MatchedAlias,SkillCategory,SkillType
+R001,People Analytics Specialist,SQL,sql,Data & Analytics,Technical
+R001,People Analytics Specialist,Power BI,power bi,Business Intelligence,Technical
+R001,People Analytics Specialist,DAX,dax,Business Intelligence,Technical
+R001,People Analytics Specialist,Excel,excel,Business Intelligence,Technical
+R001,People Analytics Specialist,Statistics,statistics,Data & Analytics,Analytical
+R001,People Analytics Specialist,Data Visualization,data visualization,Business Intelligence,Analytical
+R001,People Analytics Specialist,Data Quality,data quality,Data Management,Business
+R001,People Analytics Specialist,People Analytics,people analytics,People Analytics,Business
+R001,People Analytics Specialist,Data Storytelling,data storytelling,Business Partnering,Business
+R002,Senior People Analytics Analyst,SQL,sql,Data & Analytics,Technical
+R002,Senior People Analytics Analyst,Power BI,power bi,Business Intelligence,Technical
+R002,Senior People Analytics Analyst,DAX,dax,Business Intelligence,Technical
+R002,Senior People Analytics Analyst,Statistics,statistics,Data & Analytics,Analytical
+R002,Senior People Analytics Analyst,Data Quality,data quality,Data Management,Business
+R002,Senior People Analytics Analyst,People Analytics,people analytics,People Analytics,Business
+R002,Senior People Analytics Analyst,Workforce Analytics,workforce analytics,People Analytics,Business
+R002,Senior People Analytics Analyst,Stakeholder Management,stakeholder management,Business Partnering,Business
+R002,Senior People Analytics Analyst,Data Storytelling,data storytelling,Business Partnering,Business
+R003,Talent Intelligence Analyst,Python,python,Data & Analytics,Technical
+R003,Talent Intelligence Analyst,Data Visualization,data visualization,Business Intelligence,Analytical
+R003,Talent Intelligence Analyst,NLP,nlp,AI & Advanced Analytics,Technical
+R003,Talent Intelligence Analyst,Data Quality,data quality,Data Management,Business
+R003,Talent Intelligence Analyst,Talent Analytics,talent analytics,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Talent Intelligence,talent intelligence,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Skills Taxonomy,skills taxonomy,Talent Intelligence,Business
+R003,Talent Intelligence Analyst,Skills Gap Analysis,skills gap analysis,Talent Intelligence,Analytical
+R003,Talent Intelligence Analyst,Internal Mobility,internal mobility,Talent Management,Business
+R004,Workforce Planning Analyst,Power BI,power bi,Business Intelligence,Technical
+R004,Workforce Planning Analyst,Excel,excel,Business Intelligence,Technical
+R004,Workforce Planning Analyst,Forecasting,forecasting,Workforce Planning,Analytical
+R004,Workforce Planning Analyst,Scenario Modeling,scenario modeling,Workforce Planning,Analytical
+R004,Workforce Planning Analyst,Data Quality,data quality,Data Management,Business
+R004,Workforce Planning Analyst,Workforce Analytics,workforce analytics,People Analytics,Business
+R004,Workforce Planning Analyst,Workforce Planning,workforce planning,Workforce Planning,Business
+R004,Workforce Planning Analyst,Stakeholder Management,stakeholder management,Business Partnering,Business
+R004,Workforce Planning Analyst,Business Acumen,business acumen,Business Partnering,Business
+R005,HR Data Analyst,SQL,sql,Data & Analytics,Technical
+R005,HR Data Analyst,Power BI,power bi,Business Intelligence,Technical
+R005,HR Data Analyst,Excel,excel,Business Intelligence,Technical
+R005,HR Data Analyst,Data Governance,data governance,Data Management,Business
+R005,HR Data Analyst,Data Quality,data quality,Data Management,Business
+R005,HR Data Analyst,HRIS,hris,HR Technology,Technical
+R005,HR Data Analyst,HR Data Management,hr data management,HR Technology,Business
+R005,HR Data Analyst,Communication,communication,Leadership,Leadership
+R006,People Analytics Manager,Power BI,power bi,Business Intelligence,Technical
+R006,People Analytics Manager,Data Governance,data governance,Data Management,Business
+R006,People Analytics Manager,Data Quality,data quality,Data Management,Business
+R006,People Analytics Manager,People Analytics,people analytics,People Analytics,Business
+R006,People Analytics Manager,Workforce Analytics,workforce analytics,People Analytics,Business
+R006,People Analytics Manager,Stakeholder Management,stakeholder management,Business Partnering,Business
+R006,People Analytics Manager,Business Acumen,business acumen,Business Partnering,Business
+R006,People Analytics Manager,Data Storytelling,data storytelling,Business Partnering,Business
+R006,People Analytics Manager,Project Management,project management,Delivery,Business
+R007,HRIS & People Data Specialist,SQL,sql,Data & Analytics,Technical
+R007,HRIS & People Data Specialist,Power BI,power bi,Business Intelligence,Technical
+R007,HRIS & People Data Specialist,Data Modeling,data modeling,Data & Analytics,Technical
+R007,HRIS & People Data Specialist,Data Governance,data governance,Data Management,Business
+R007,HRIS & People Data Specialist,Data Quality,data quality,Data Management,Business
+R007,HRIS & People Data Specialist,People Analytics,people analytics,People Analytics,Business
+R007,HRIS & People Data Specialist,HRIS,hris,HR Technology,Technical
+R007,HRIS & People Data Specialist,HR Data Management,hr data management,HR Technology,Business
+R008,Talent Management Analytics Specialist,Data Quality,data quality,Data Management,Business
+R008,Talent Management Analytics Specialist,Talent Analytics,talent analytics,Talent Intelligence,Business
+R008,Talent Management Analytics Specialist,Internal Mobility,internal mobility,Talent Management,Business
+R008,Talent Management Analytics Specialist,Succession Planning,succession planning,Talent Management,Business
+R008,Talent Management Analytics Specialist,Talent Management,talent management,Talent Management,Business
+R008,Talent Management Analytics Specialist,Learning Analytics,learning analytics,Learning & Development,Analytical
+R008,Talent Management Analytics Specialist,Performance Analytics,performance analytics,Performance Management,Analytical
+R008,Talent Management Analytics Specialist,Stakeholder Management,stakeholder management,Business Partnering,Business
+R008,Talent Management Analytics Specialist,Communication,communication,Leadership,Leadership

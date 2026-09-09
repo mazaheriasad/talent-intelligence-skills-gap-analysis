@@ -1,0 +1,92 @@
+RoleID,RoleName,Skill,Expected,Extracted,EvaluationStatus
+R001,People Analytics Specialist,DAX,True,True,True Positive
+R001,People Analytics Specialist,Data Quality,True,True,True Positive
+R001,People Analytics Specialist,Data Storytelling,True,True,True Positive
+R001,People Analytics Specialist,Data Visualization,True,True,True Positive
+R001,People Analytics Specialist,Employee Engagement,True,False,False Negative
+R001,People Analytics Specialist,Excel,True,True,True Positive
+R001,People Analytics Specialist,People Analytics,True,True,True Positive
+R001,People Analytics Specialist,Power BI,True,True,True Positive
+R001,People Analytics Specialist,SQL,True,True,True Positive
+R001,People Analytics Specialist,Stakeholder Management,True,False,False Negative
+R001,People Analytics Specialist,Statistics,True,True,True Positive
+R001,People Analytics Specialist,Turnover Analysis,True,False,False Negative
+R002,Senior People Analytics Analyst,Business Acumen,True,False,False Negative
+R002,Senior People Analytics Analyst,DAX,True,True,True Positive
+R002,Senior People Analytics Analyst,Data Governance,True,False,False Negative
+R002,Senior People Analytics Analyst,Data Modeling,True,False,False Negative
+R002,Senior People Analytics Analyst,Data Quality,False,True,False Positive
+R002,Senior People Analytics Analyst,Data Storytelling,True,True,True Positive
+R002,Senior People Analytics Analyst,People Analytics,True,True,True Positive
+R002,Senior People Analytics Analyst,Power BI,True,True,True Positive
+R002,Senior People Analytics Analyst,Python,True,False,False Negative
+R002,Senior People Analytics Analyst,SQL,True,True,True Positive
+R002,Senior People Analytics Analyst,Stakeholder Management,True,True,True Positive
+R002,Senior People Analytics Analyst,Statistics,True,True,True Positive
+R002,Senior People Analytics Analyst,Workforce Analytics,True,True,True Positive
+R003,Talent Intelligence Analyst,Data Quality,False,True,False Positive
+R003,Talent Intelligence Analyst,Data Storytelling,True,False,False Negative
+R003,Talent Intelligence Analyst,Data Visualization,True,True,True Positive
+R003,Talent Intelligence Analyst,Generative AI,True,False,False Negative
+R003,Talent Intelligence Analyst,Internal Mobility,True,True,True Positive
+R003,Talent Intelligence Analyst,NLP,True,True,True Positive
+R003,Talent Intelligence Analyst,Python,True,True,True Positive
+R003,Talent Intelligence Analyst,Skills Gap Analysis,True,True,True Positive
+R003,Talent Intelligence Analyst,Skills Taxonomy,True,True,True Positive
+R003,Talent Intelligence Analyst,Stakeholder Management,True,False,False Negative
+R003,Talent Intelligence Analyst,Talent Analytics,True,True,True Positive
+R003,Talent Intelligence Analyst,Talent Intelligence,True,True,True Positive
+R004,Workforce Planning Analyst,Business Acumen,True,True,True Positive
+R004,Workforce Planning Analyst,Data Quality,False,True,False Positive
+R004,Workforce Planning Analyst,Data Storytelling,True,False,False Negative
+R004,Workforce Planning Analyst,Excel,True,True,True Positive
+R004,Workforce Planning Analyst,Forecasting,True,True,True Positive
+R004,Workforce Planning Analyst,Power BI,True,True,True Positive
+R004,Workforce Planning Analyst,Scenario Modeling,True,True,True Positive
+R004,Workforce Planning Analyst,Stakeholder Management,True,True,True Positive
+R004,Workforce Planning Analyst,Statistics,True,False,False Negative
+R004,Workforce Planning Analyst,Workforce Analytics,True,True,True Positive
+R004,Workforce Planning Analyst,Workforce Planning,True,True,True Positive
+R005,HR Data Analyst,Communication,True,True,True Positive
+R005,HR Data Analyst,Data Governance,True,True,True Positive
+R005,HR Data Analyst,Data Quality,True,True,True Positive
+R005,HR Data Analyst,Excel,True,True,True Positive
+R005,HR Data Analyst,HR Data Management,True,True,True Positive
+R005,HR Data Analyst,HRIS,True,True,True Positive
+R005,HR Data Analyst,People Analytics,True,False,False Negative
+R005,HR Data Analyst,Power BI,True,True,True Positive
+R005,HR Data Analyst,SQL,True,True,True Positive
+R006,People Analytics Manager,Business Acumen,True,True,True Positive
+R006,People Analytics Manager,Change Management,True,False,False Negative
+R006,People Analytics Manager,Data Governance,True,True,True Positive
+R006,People Analytics Manager,Data Quality,False,True,False Positive
+R006,People Analytics Manager,Data Storytelling,True,True,True Positive
+R006,People Analytics Manager,People Analytics,True,True,True Positive
+R006,People Analytics Manager,Power BI,True,True,True Positive
+R006,People Analytics Manager,Project Management,True,True,True Positive
+R006,People Analytics Manager,SQL,True,False,False Negative
+R006,People Analytics Manager,Stakeholder Management,True,True,True Positive
+R006,People Analytics Manager,Talent Analytics,True,False,False Negative
+R006,People Analytics Manager,Workforce Analytics,True,True,True Positive
+R006,People Analytics Manager,Workforce Planning,True,False,False Negative
+R007,HRIS & People Data Specialist,Data Governance,True,True,True Positive
+R007,HRIS & People Data Specialist,Data Modeling,True,True,True Positive
+R007,HRIS & People Data Specialist,Data Quality,True,True,True Positive
+R007,HRIS & People Data Specialist,HR Data Management,True,True,True Positive
+R007,HRIS & People Data Specialist,HRIS,True,True,True Positive
+R007,HRIS & People Data Specialist,People Analytics,True,True,True Positive
+R007,HRIS & People Data Specialist,Power BI,True,True,True Positive
+R007,HRIS & People Data Specialist,Project Management,True,False,False Negative
+R007,HRIS & People Data Specialist,SQL,True,True,True Positive
+R007,HRIS & People Data Specialist,Stakeholder Management,True,False,False Negative
+R008,Talent Management Analytics Specialist,Communication,True,True,True Positive
+R008,Talent Management Analytics Specialist,Data Quality,False,True,False Positive
+R008,Talent Management Analytics Specialist,Data Visualization,True,False,False Negative
+R008,Talent Management Analytics Specialist,Internal Mobility,True,True,True Positive
+R008,Talent Management Analytics Specialist,Learning Analytics,True,True,True Positive
+R008,Talent Management Analytics Specialist,People Analytics,True,False,False Negative
+R008,Talent Management Analytics Specialist,Performance Analytics,True,True,True Positive
+R008,Talent Management Analytics Specialist,Stakeholder Management,True,True,True Positive
+R008,Talent Management Analytics Specialist,Succession Planning,True,True,True Positive
+R008,Talent Management Analytics Specialist,Talent Analytics,True,True,True Positive
+R008,Talent Management Analytics Specialist,Talent Management,True,True,True Positive

@@ -1,0 +1,2 @@
+TruePositives,FalsePositives,FalseNegatives,Precision,Recall,F1Score
+65,5,21,0.9285714285714286,0.7558139534883721,0.8333333333333334
